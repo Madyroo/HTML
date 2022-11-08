@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    color: blue; /* blauw want staat voor professioneel vertrouwen en eer */
+}
+.container{
+    max-width: 70ch;
+    font-size: 22px;
+    text-align: left;
+    margin-left: 300px;
+
+}
+h1{
+    text-align: center;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
