@@ -1,0 +1,1 @@
+met @import can je een andere css in een css linken
