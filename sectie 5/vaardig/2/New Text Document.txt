@@ -1,2 +1,2 @@
 voorbeeld is de achtergrond kleur veranderen background-color: green;
-media query kan je de design verandere van een laptop version van de site mobile en adnerer divices
+media query kan je de design verandere van een laptop version van de site mobile en andere divices

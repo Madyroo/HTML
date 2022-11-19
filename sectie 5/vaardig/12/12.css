@@ -1,0 +1,13 @@
+img{
+
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img:hover{
+    transform: scale(1.2);
+    transition-delay: 0.5s;
+}

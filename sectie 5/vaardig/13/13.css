@@ -1,0 +1,27 @@
+*{font-family: serif;
+
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+    
+  }
+  
+  img {
+    max-width: 90%;
+    
+  }
+  
+  .image {
+    flex-basis: 40%;
+    
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    width: 400px;
+    font-size: 70%;
+  }

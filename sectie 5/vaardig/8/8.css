@@ -1,0 +1,10 @@
+h2{
+    color: blueviolet;
+}
+h1{
+    color: aqua;
+    text-decoration: underline
+}
+a:link{
+    text-decoration: none;
+}
