@@ -1,0 +1,2 @@
+als bijvoorbeeld een afbeelding grooter is al dan een box die je het gemaakt en de afbeelding steekt uit kan je overflow: Auto; gebruiken 
+en dat zorgt er voor dat de grooter word gemaakt zodat de afbeelding der ook in past
