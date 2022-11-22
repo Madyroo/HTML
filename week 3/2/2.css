@@ -1,0 +1,15 @@
+#foto{
+    width: 60%;
+    height: 60%;
+    background-image: url(img/pic.png);
+    background-size: cover;
+    position: absolute;
+  } 
+  
+  #vierkant{
+    clip-path: polygon(30% 50%, 40% 50%, 40% 60%, 30% 60%);
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+  }
