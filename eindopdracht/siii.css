@@ -193,6 +193,23 @@ nav .fa{
     }
 }
 
+@media (min-width: 800px){
+    .text-box h1{
+    font-size: 50px;
+    }
+
+    .text-box h1:hover{
+    font-size: 60px;
+        }
+
+    .text-box h1:hover::after{
+    width: 100%;
+            }
+    
+}
+
+
+
                          /* Frame   text */
 #frame{
 width: 80%;
@@ -356,7 +373,7 @@ overflow: hidden;
 
 .mnp{
     margin: 100px auto;
-    width: 80%;
+    width: 70%;
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/banner.png);
     background-position: center;
     background-size: cover;
